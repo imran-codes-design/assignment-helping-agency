@@ -30,8 +30,14 @@ export function SiteFooter() {
           <div className="site-footer__links">
             <h2>Get in touch</h2>
             <a href="/#quote-form">Quote request form</a>
-            <a href="https://wa.me/?text=Hello%2C%20I%27d%20like%20to%20learn%20more." target="_blank" rel="noreferrer">Open WhatsApp</a>
-            <span>Contact details not configured</span>
+            <a
+              href="https://wa.me/923154890603?text=Thank%20you%20for%20your%20response.%20Please%20share%20the%20following%20details%3A%0A%0A1-%20Type%20of%20assistance%20you%20need%0A2-%20Related%20material%0A3-%20Required%20format%20and%20deadline%0A%0APlease%20send%20all%20details%20and%20inquiries%20you%20have%20and%20we%20will%20respond%20as%20soon%20as%20possible.%0A%0AYour%20success%20is%20our%20success%20%F0%9F%A4%9D%0A%0AThanks%20%F0%9F%A5%B0"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Contact us on WhatsApp
+            </a>
+
           </div>
         </div>
         <div className="site-footer__bottom">
