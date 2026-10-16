@@ -18,7 +18,7 @@ export default function HomePage() {
       <SiteFooter />
       <a
         className="whatsapp-float"
-        href="https://wa.me/923154890603"
+        href="https://wa.me/447455670954"
         target="_blank"
         rel="noreferrer"
         aria-label="Open WhatsApp and choose a contact"
